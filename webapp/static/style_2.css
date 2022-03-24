@@ -1,0 +1,30 @@
+body{
+	background-color:black;
+	position: fixed;
+	bottom: 300px;
+	right: 700px;
+	width: 600px;
+
+}
+div.onoff{	
+	font-size: 80px;
+	font-family: fantasy;
+	text-align: center;
+}
+
+div.onoff a {
+	color:yellow;
+}
+p{
+	font-size: 60px;
+	color : white;
+	font-family: fantasy;
+	text-align: center;
+	
+}
+#state{
+	font-size: 80px;
+	color : red;
+	font-family: fantasy;
+	text-align: center;
+}

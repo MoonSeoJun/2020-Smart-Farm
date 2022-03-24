@@ -1,0 +1,41 @@
+body{
+	background-color:black;
+	position: fixed;
+	text-align: center;
+	bottom: 0px;
+	right: 700px;
+	width: 700px;
+}
+div.temp_humi a{	
+	font-size: 80px;
+	font-family: fantasy;
+	color:yellowgreen
+}
+div.cds a{
+	font-size: 80px;
+	font-family: fantasy;
+	color:yellow;
+}
+div.all a{
+	font-size: 80px;
+	font-family: fantasy;
+	color: green
+}
+div.home a{
+	font-size: 80px;
+	font-family: fantasy;
+	color: skyblue;
+}
+p{
+	font-size: 50px;
+	color : white;
+	font-family: fantasy;
+	text-align: center;
+	
+}
+#state{
+	font-size: 80px;
+	color : goldenrod;
+	font-family: fantasy;
+	text-align: center;
+}
